@@ -1,8 +1,27 @@
-# React + Vite
+# Project 15: my-film-react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### one of my fabulous react project that you can search different movies and have a watchlist with localStorage
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✔️ language: English
+
+✔️ vite
+
+✔️ reactJs
+
+✔️ Fake API: https://www.omdbapi.com/
+
+
+![myfilm](https://github.com/user-attachments/assets/8d63e772-b6f8-4ab6-be9d-8236ded2cef7)
+
+
+
+🔗 [Demo Project]()
+
+👨‍💻 Developed by Saeed Abdollahi
+
+💻 Role: Frontend
+
+⚙️ Technologies used: ReactJs / vite / API
+
+📥 How to reach me: with my [Linkedin](https://www.linkedin.com/in/saeeddev-ir) / [Instagram](https://instagram.com/saeeddev_ir) / [Telegram](https://t.me/saeeddev_ir)
